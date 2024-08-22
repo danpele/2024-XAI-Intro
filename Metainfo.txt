@@ -2,7 +2,7 @@ Name of QuantLet : Introduction_to_XAI
 
 Published in : HTW Summer School 2024
 
-Description : 'Provides an introduction to XAI for Credit Risk Modelling.'
+Description : Provides an introduction to XAI for Credit Risk Modelling.
 
 Keywords : XAI, SHAP, LIME, credit risk modelling, Shapley values, feature importance, partial dependence plot
 
