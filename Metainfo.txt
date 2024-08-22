@@ -10,4 +10,4 @@ Author : Daniel Traian Pele
 
 Submitted : 20/08/2024
  
-Datafiles : hmeq.csv
+Input : 'hmeq.csv'
